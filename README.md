@@ -1,4 +1,6 @@
-[![npm version](https://badge.fury.io/js/moment-mini.svg)](https://badge.fury.io/js/moment-mini) 
+[![npm version](https://badge.fury.io/js/@intabulas/moment-mini.svg)](https://badge.fury.io/js/@intabulas/moment-mini)
+
+**NOTE** This is a fork of [https://github.com/ksloan/moment-mini](https://github.com/ksloan/moment-mini)
 
 # moment-mini
 
